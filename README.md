@@ -15,7 +15,7 @@ The problems are described as "todo" in source code.
 
 * Use Golang Studio
 
-### Step 2 - Provide two solutions
+### Step 3 - Provide two solutions
 
 * Do not use any third party code
 * Document both methods
